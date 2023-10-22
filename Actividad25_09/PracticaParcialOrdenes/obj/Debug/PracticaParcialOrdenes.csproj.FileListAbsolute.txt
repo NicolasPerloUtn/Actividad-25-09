@@ -1,0 +1,11 @@
+C:\Users\Pc\source\repos\PracticaParcialOrdenes\PracticaParcialOrdenes\obj\Debug\PracticaParcialOrdenes.csproj.AssemblyReference.cache
+C:\Users\Pc\source\repos\PracticaParcialOrdenes\PracticaParcialOrdenes\obj\Debug\PracticaParcialOrdenes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pc\source\repos\PracticaParcialOrdenes\PracticaParcialOrdenes\obj\Debug\PracticaParcialOrdenes.Form1.resources
+C:\Users\Pc\source\repos\PracticaParcialOrdenes\PracticaParcialOrdenes\obj\Debug\PracticaParcialOrdenes.Properties.Resources.resources
+C:\Users\Pc\source\repos\PracticaParcialOrdenes\PracticaParcialOrdenes\obj\Debug\PracticaParcialOrdenes.csproj.GenerateResource.cache
+C:\Users\Pc\source\repos\PracticaParcialOrdenes\PracticaParcialOrdenes\obj\Debug\PracticaParcialOrdenes.csproj.CoreCompileInputs.cache
+C:\Users\Pc\source\repos\PracticaParcialOrdenes\PracticaParcialOrdenes\bin\Debug\PracticaParcialOrdenes.exe.config
+C:\Users\Pc\source\repos\PracticaParcialOrdenes\PracticaParcialOrdenes\bin\Debug\PracticaParcialOrdenes.exe
+C:\Users\Pc\source\repos\PracticaParcialOrdenes\PracticaParcialOrdenes\bin\Debug\PracticaParcialOrdenes.pdb
+C:\Users\Pc\source\repos\PracticaParcialOrdenes\PracticaParcialOrdenes\obj\Debug\PracticaParcialOrdenes.exe
+C:\Users\Pc\source\repos\PracticaParcialOrdenes\PracticaParcialOrdenes\obj\Debug\PracticaParcialOrdenes.pdb
